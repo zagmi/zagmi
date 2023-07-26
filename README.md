@@ -157,4 +157,4 @@ See [Customizing static analysis](https://dart.dev/guides/language/analysis-opti
 Please file feature requests and bugs at the [issue tracker][tracker].
 If you want to contribute to this library, please submit a Pull Request.
 
-[tracker]: https://github.com/simolus3/zagmi/issues/new
+[tracker]: https://github.com/zagmi/zagmi/issues/new
